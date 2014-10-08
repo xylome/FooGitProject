@@ -4,6 +4,10 @@
 *.obj
 *.elf
 
+# C dev
+bin/
+*~
+
 # Precompiled Headers
 *.gch
 *.pch
